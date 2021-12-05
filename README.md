@@ -1,10 +1,5 @@
-# My Intro
+# Who Am I?
+Hey There! Myself Deepanshu. I am learning Web Development & Python.
 
-Hey Everyone Deepanshu here, I enjoy coding and learning new stuffs.
-
-## What I do?
-
-I am a YouTuber and make videos about programming and technology.
-Check here [Tech N Code](https://www.youtube.com/channel/UCmMuvnZtzmBPjK_Vzww4orw)
-
-## Thank You :)
+I have a YouTube Channel where I make videos about Web Development, Python And Technology.
+You can check it here. [DS CODEZ](https://www.youtube.com/channel/UCmMuvnZtzmBPjK_Vzww4orw)
